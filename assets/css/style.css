@@ -23,6 +23,12 @@ h1, h2 {
 
 }
 
+
+.sharp-corners, 
+.sharp-corners * {
+    border-radius: 0;
+}
+
 #about {
      background-color: white;
 }
